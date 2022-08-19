@@ -1,4 +1,17 @@
 @font-face {
-  font-family: 'Sans Serif';
+  font-family: 'Raleway';
   src: URL('Raleway-Regular.ttf') format('truetype');
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+  padding: 40px;
+}
+
+td {
+	vertical-align: top;
+}
+
+a {
+	color: black;
 }
